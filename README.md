@@ -7,7 +7,7 @@ I use this challenge to improve my skills in javascript.
 ### What I Use
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbo
+- Flexbox
 - Javascript
 
 ### Links
